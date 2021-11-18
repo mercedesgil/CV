@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+
+    background-color: #FDF7E9;
+    box-sizing: border-box;
+    color: #D03B00;
+
+}
+
+span{
+    
+    display: block;
+
+}
+
+h1{
+
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+.name-intro span, p{
+
+    font-family: 'Inter', sans-serif;
+
+}
+
+h4, h5, .contact ul li a{
+
+    text-transform: uppercase;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+hr{
+
+    border: none;
+    background-color:#D03B00;
+    color:#D03B00;
+    height:1px;
+    width:100%
+
+}
+
+
+article{
+
+    font-family: 'Inter', sans-serif;
+
+}
+
+ul{
+
+list-style-type: none;
+font-weight: bold;
+
+}
+
+article ul li{
+
+    font-weight: lighter;
+
+}
